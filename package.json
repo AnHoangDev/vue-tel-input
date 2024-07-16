@@ -1,6 +1,6 @@
 {
   "name": "@anhoang/vue-tel-input-compat",
-  "version": "9.1.4.1",
+  "version": "9.1.5",
   "description": "International Telephone Input with Vue",
   "author": "An Hoang",
   "license": "MIT",
