@@ -113,6 +113,9 @@
     directives: {
       clickOutside,
     },
+    compatConfig: {
+      MODE: 3,
+    },
   })
 
   const emit = defineEmits([

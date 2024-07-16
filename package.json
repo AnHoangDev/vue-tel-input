@@ -2,7 +2,7 @@
   "name": "vue-tel-input",
   "version": "9.1.4",
   "description": "International Telephone Input with Vue",
-  "author": "Steven Dao <iamstevendao@gmail.com>",
+  "author": "An Hoang",
   "license": "MIT",
   "homepage": "https://iamstevendao.com/vue-tel-input/",
   "type": "module",
